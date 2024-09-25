@@ -3,7 +3,8 @@
 It will convert all the pdf files in the input_directory generate indivuial csv files
 
 **INPUT PDF TABLE**
-![image](https://github.com/user-attachments/assets/edb00db0-1d21-4c5e-80ae-019170e8fd4e
+
+![image](https://github.com/user-attachments/assets/f5670b21-5a9c-49af-b89c-9e6dc88af8d1)
 
 
 **OUTPUT CSV FILE**
