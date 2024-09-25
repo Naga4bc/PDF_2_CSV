@@ -7,4 +7,5 @@ It will convert all the pdf files in particular directoty generate indivuial csv
 
 
 **OUTPUT CSV FILE**
+
 ![image](https://github.com/user-attachments/assets/9e07ba29-08d3-4368-a6bf-a689e6ba6ca7)
